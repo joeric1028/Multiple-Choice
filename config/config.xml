@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Multiple Choice</Name>
+    <Version>1.2.0</Version>
+    <Title>Multiple Choice</Title>
+    <Publisher>Jose Mari P. Ricardo</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>Qt Installer Framework Examples</StartMenuDir>
+    <TargetDir>@HomeDir@/IfwExamples/startmenu</TargetDir>
+</Installer
